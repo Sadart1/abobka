@@ -2,7 +2,7 @@
 
 ## Работа с GIT
 
-<p><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Black_Bovan.jpg/1200px-Black_Bovan.jpg" width = "350"></p>
+<p align = "center"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Black_Bovan.jpg/1200px-Black_Bovan.jpg" width = "350"></p>
 
 <p><a href = "https://religion-info.ru/marriage/igry-na-dvoih-draki-negry-igry-draki-na-dvoih-azart-igry-draki-na-dvoih/">Ссылка</a></p>
 
