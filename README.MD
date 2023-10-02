@@ -4,7 +4,7 @@
 
 <p><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Black_Bovan.jpg/1200px-Black_Bovan.jpg" width = "350"></p>
 
-<p><a href = "https://religion-info.ru/"></a></p>
+<p><a href = "https://religion-info.ru"></a></p>
 
 -----
 
